@@ -1,0 +1,9 @@
+{
+  "name": "miniyoutube",
+  "title": "Mini YouTube",
+  "id": "jid1-BuBBGybt4smobA",
+  "description": "Makes YouTube video float while you're reading/writing comments so you can do both at the same time.",
+  "author": "Jian Wei Chuah",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
